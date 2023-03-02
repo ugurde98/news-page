@@ -1,0 +1,47 @@
+.body-contaniner{
+    display: flex;
+    gap: 2vw;
+
+}
+.body-container-2{
+    display: flex;
+    gap: 2vw;
+}
+.image1{
+    width: 64vw
+}
+.news-container{
+    width: 26vw;
+    background-color: black;
+    
+}
+.rowitem{
+    display: flex;
+    align-items: center;
+    gap:40px
+
+}
+.big-text{
+    width: 26vw;
+}
+.mini-text{
+    width: 26vw;
+    
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.button{
+    
+    height: 6vh;
+    width: 12vw;
+    background-color:hsl(5, 85%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:hsl(36, 100%, 99%) ;
+    font-weight: 700;
+    letter-spacing: 5px;
+    
+}

@@ -1,0 +1,14 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+    gap:40px
+}
+.links>p{
+    color:hsl(236, 13%, 42%);
+}
+.links>p:hover{
+    color: hsl(5, 85%, 63%) ;
+}
